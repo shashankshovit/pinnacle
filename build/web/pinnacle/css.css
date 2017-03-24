@@ -1,0 +1,162 @@
+/* 
+    Document   : css
+    Created on : Jan 24, 2012, 3:38:29 PM
+    Author     : Shanky
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+.name{font-size:large;}
+
+.size500
+{
+    font-size:1000%;
+
+}
+.size5
+{
+    font-size:700%;
+
+}
+.color{color:red;}
+
+.test
+	{
+		
+	}
+.boundary
+	{
+		border : thick dotted gray;
+                padding: 0px 20px 20px 20px;
+	}
+.single_boundary
+	{
+		border : medium dashed silver;
+
+		padding : 20px 40px 40px 20px ;
+	}
+
+.box
+{
+    background-color:#444444;
+    color:#bbbbbb;
+    width:200px;
+}
+.boxx
+{
+    width:200px;
+}
+
+.box1
+{
+    background-color:#444444;
+    color:#bbbbbb;
+    width:60px;
+}
+
+.box11
+{
+    background-color:#444444;
+    color:#bbbbbb;
+    width:77px;
+}
+
+.box2
+{
+    background-color:#123456;
+    color:#fedcba;
+    width:135px;
+}
+
+.box3
+{
+    background-color:#123456;
+    color:#fedcba;
+    width:100px;
+}
+
+.box4
+{
+    background-color:#123456;
+    color:#fedcba;
+    width:100px;
+    height:60px;
+}
+
+.area
+{
+    background-image:url("images/side1.jpg");
+    background-color:#1188ff;
+    color:#444444;
+    width:150px;
+    height:350px;
+}
+
+.area2
+{
+    background-image:url("images/side2.jpg");
+    background-color:#ff8811;
+    color:#444444;
+    width:155px;
+    height:340px;
+}
+
+.area3
+{
+    background-color:#dddddd;
+    color:#444444;
+    width:300px;
+    height:250px;
+}
+
+.pinkbutton
+{
+    background-image:url("images/pink.jpg");
+    width:130px;
+    height:130px;
+    background-position: 100% 100%;
+}
+
+.goldbutton
+{
+    background-image:url("images/gold.jpg");
+    width:130px;
+    height:130px;
+    background-position: 100% 100%;
+}
+
+.head
+{background-image:url("images/head.jpg");background-position:top;}
+
+.pinnacle
+{
+    background-image:url("images/pinnacle.jpg");
+    
+/*    background-position:top;  */
+    /*width:15000px;
+    height:15000px;*/
+}
+
+.links
+{background-image:url("images/links.jpg");background-position:top;}
+
+.linksleft
+{
+    background-image:url("images/links.jpg");
+    background-position:top;
+    font-family:'Algerian';
+    font-size:x-large;
+    color:black;
+}
+
+.logo
+{width:200px;height:100px;}
